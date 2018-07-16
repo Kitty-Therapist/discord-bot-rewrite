@@ -1,0 +1,2 @@
+discord.py REWRITE
+Python 3.6
